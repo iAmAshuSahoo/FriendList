@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FriendList/static/css/main.50872d9d.chunk.css",
+    "main.js": "/FriendList/static/js/main.189c9b6e.chunk.js",
+    "main.js.map": "/FriendList/static/js/main.189c9b6e.chunk.js.map",
+    "runtime-main.js": "/FriendList/static/js/runtime-main.13881d62.js",
+    "runtime-main.js.map": "/FriendList/static/js/runtime-main.13881d62.js.map",
+    "static/js/2.43dbdc95.chunk.js": "/FriendList/static/js/2.43dbdc95.chunk.js",
+    "static/js/2.43dbdc95.chunk.js.map": "/FriendList/static/js/2.43dbdc95.chunk.js.map",
+    "static/js/3.bc8f3305.chunk.js": "/FriendList/static/js/3.bc8f3305.chunk.js",
+    "static/js/3.bc8f3305.chunk.js.map": "/FriendList/static/js/3.bc8f3305.chunk.js.map",
+    "index.html": "/FriendList/index.html",
+    "static/css/main.50872d9d.chunk.css.map": "/FriendList/static/css/main.50872d9d.chunk.css.map",
+    "static/js/2.43dbdc95.chunk.js.LICENSE.txt": "/FriendList/static/js/2.43dbdc95.chunk.js.LICENSE.txt",
+    "static/media/golden-star.png": "/FriendList/static/media/golden-star.618d11e1.png",
+    "static/media/star.png": "/FriendList/static/media/star.190d870d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13881d62.js",
+    "static/js/2.43dbdc95.chunk.js",
+    "static/css/main.50872d9d.chunk.css",
+    "static/js/main.189c9b6e.chunk.js"
+  ]
+}
