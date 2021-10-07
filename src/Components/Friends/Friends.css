@@ -1,0 +1,63 @@
+.general {
+    padding: 4px 0px 3px 10px;
+    border: 1px solid;
+    font-size: 14px;
+}
+
+.friends {
+    max-width: 300px;
+    margin: auto;
+}
+
+.friend-list {
+    margin-bottom: 0px;
+    background-color: lightgray;
+    padding-left: 10px;
+}
+
+.input-style {
+    width: 288px;
+    color: black;
+}
+
+.input-style::placeholder {
+    color: black;
+    font-size: 14px;
+}
+
+.input-style::selection {
+    border: 1px solid;
+}
+
+.friend {
+    display: flex;
+    justify-content: space-between;
+}
+
+.favorite {
+    pointer-events: all;
+    max-width: 20px;
+    margin-right: 20px;
+}
+
+.dustbin {
+    margin-right: 10px;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.status{
+    margin-right: 30px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.cursor {
+    cursor: pointer;
+}
